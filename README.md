@@ -4,4 +4,6 @@
 
 Date: 01/01/2022
 
-promo code : SALE50
+promo code : SALE5
+
+I want to create PR
